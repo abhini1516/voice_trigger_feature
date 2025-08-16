@@ -1,0 +1,5 @@
+pocketsphinx
+sounddevice
+numpy
+SpeechRecognition
+pyaudio
