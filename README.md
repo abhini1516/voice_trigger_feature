@@ -74,3 +74,13 @@ This is a foundational project! Ideas and contributions are highly welcome. Feel
 3.  Create pull requests for new features or improvements.
 
 **Let's build something amazing, together.**
+
+---
+
+## **📫 Contact & Connect**
+
+- GitHub: [abhini1516](https://github.com/abhini1516)  
+- LinkedIn: https://www.linkedin.com/in/abhini-s-220345281/ 
+- Email: abhiniprojects7@gmail.com
+
+***
