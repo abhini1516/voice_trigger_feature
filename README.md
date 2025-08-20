@@ -10,7 +10,7 @@ A simple, offline Python engine that listens for spoken keywords ("help", "sos")
 
 1.  **Clone and setup:**
     ```bash
-    git clone https://github.com/your-username/voice_trigger_feature.git
+    git clone https://github.com/abhini1516/voice_trigger_feature.git
     cd voice_trigger_feature
     pip install -r requirements.txt
     ```
